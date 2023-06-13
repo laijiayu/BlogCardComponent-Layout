@@ -35,7 +35,7 @@ body{
     border-radius: 10px 10px 0 0 ;
 }
 .card-container .txt{
-    padding: 25px;
+    padding: 25px 25px 40px 25px;
     color: #10182F;
 }
 .card-container > .txt > p:first-child    {     
